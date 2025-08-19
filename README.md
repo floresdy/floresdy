@@ -9,7 +9,8 @@
   <br>
 I’m passionate about designing websites and digital products that deliver engaging, intuitive, and functional user experiences. 
   <br>
-I enjoy working in teams and collaborating with clients to create effective solutions and high-quality products.
+  </P>
+<P> I enjoy working in teams and collaborating with clients to create effective solutions and high-quality products.
   <br>
 I’m always eager to learn new tools and improve my skills, delivering creative and innovative solutions.
 </p>
