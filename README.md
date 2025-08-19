@@ -5,13 +5,12 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<p> ⚡ I’m a Systems Engineering student and a front-end developer. front-end developer.
-  <br>
-I’m passionate about designing websites and digital products that deliver engaging, intuitive, and functional user experiences. 
-  <br>
-  </P>
+ <p> ⚡ I’m a Systems Engineering student and a front-end developer. front-end developer. </p>
+  
+<p>I’m passionate about designing websites and digital products that deliver engaging, intuitive, and functional user experiences. </p>
+ 
+ 
 <P> I enjoy working in teams and collaborating with clients to create effective solutions and high-quality products.
-  <br>
 I’m always eager to learn new tools and improve my skills, delivering creative and innovative solutions.
 </p>
 
